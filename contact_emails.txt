@@ -1,0 +1,32 @@
+From: test&email=sduranowski1%40gmail.com&message=test <sduranowski1%40gmail.com&message=test>
+Date: 2024-11-30 01:11:48
+Subject: Contact Form Submission
+
+Message:
+test
+
+------------------------
+From: test&email=sduranowski1%40gmail.com&message=testÀ¶÷ <sduranowski1%40gmail.com&message=testÀ¶÷>
+Date: 2024-12-01 18:46:09
+Subject: Contact Form Submission
+
+Message:
+testÀ¶÷
+
+------------------------
+From: test&email=sduranowski1%40gmail.com&message=testÀ¶÷ <sduranowski1%40gmail.com&message=testÀ¶÷>
+Date: 2024-12-01 18:46:35
+Subject: Contact Form Submission
+
+Message:
+testÀ¶÷
+
+------------------------
+From: Szymon+Duranowski&email=sduranowski1%40gmail.com&message=heh	 <sduranowski1%40gmail.com&message=heh	>
+Date: 2024-12-01 18:47:29
+Subject: Contact Form Submission
+
+Message:
+heh	
+
+------------------------
